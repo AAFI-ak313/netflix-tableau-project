@@ -21,9 +21,9 @@
 
 ## 📂 Dataset:
 
- > - Source: Netflix Dataset from Kaggle (or another reliable dataset)
+ > - Source: Netflix Dataset  (or another reliable dataset)
 
-> -  Columns used: Title, Type, Country, Date Added, Release Year, Genre, Rating, IMDb Score
+> -  Columns used: Show_id,Title, Type, Country, Date Added, Release Year, Genre, Rating,Director,Cast,Duration,Description
 
 
 ## 🛠 Tools Used:
@@ -37,7 +37,7 @@
 
 1. Genre-wise Content Distribution
 
-2. Movies vs TV Shows Comparison
+2. Total movies & TV Shows by country
 
 3. Top 10 Producing Countries
 
@@ -45,7 +45,7 @@
 
 5. Ratings Distribution Bar Chart
 
-6. Interactive Filters (Genre, Country, Year, Type)
+6. Interactive Filters (, Country, Year, Type)
 
 
 ## 🔍 Insights Highlighted:
